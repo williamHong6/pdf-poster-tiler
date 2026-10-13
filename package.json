@@ -1,0 +1,9 @@
+{
+  "name": "pdf-poster-tiler",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline browser tool to tile large PDFs onto printable sheets with safe margins and glue overlaps.",
+  "license": "MIT",
+  "scripts": { "test": "node tests/verify.cjs" },
+  "engines": { "node": ">=18" }
+}
